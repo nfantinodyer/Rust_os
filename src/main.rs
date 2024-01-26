@@ -3,7 +3,7 @@
 
 use core::panic::PanicInfo;
 
-static HELLO: &[u8] = b"oofemYikes";
+static HELLO: &[u8] = b"oofem\nYikes";
 
 #[no_mangle]
 pub extern "C" fn _start() -> ! {
