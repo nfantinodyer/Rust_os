@@ -1,1 +1,11 @@
-/target
+/target/bootimage
+/target/debug
+/target/.rustc_info.json
+/target/x86_64-blog_os/debug/.fingerprint
+/target/x86_64-blog_os/debug/build
+/target/x86_64-blog_os/debug/deps
+/target/x86_64-blog_os/debug/incremental
+/target/x86_64-blog_os/debug/examples
+/target/x86_64-blog_os/debug/.cargo-lock
+/target/x86_64-blog_os/debug/blog_os
+/target/x86_64-blog_os/debug/blog_os.d
